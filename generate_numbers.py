@@ -1,2 +1,12 @@
 def natural_numbers(n):
-    #Write code here
+    #Returns the list of natural numbers
+    #Code here
+
+
+def nth_fibnocchi(n):
+    #Returns n-th fibonacci number
+    #Code here
+
+def is_prime(n):
+    #Return true if 'n' is prime, otherwise returns false
+    #Code here
